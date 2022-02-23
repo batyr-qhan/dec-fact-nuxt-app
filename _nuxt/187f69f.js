@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{248:function(e,t,n){"use strict";n.r(t);var l={components:{}},c=n(41),component=Object(c.a)(l,(function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",{staticClass:"flex justify-center items-center h-full"},[e._v("Страница кол-центр")])}),[],!1,null,null,null);t.default=component.exports}}]);
