@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{247:function(e,n,t){"use strict";t.r(n);var l={components:{}},c=t(41),component=Object(c.a)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",{staticClass:"flex justify-center items-center h-full"},[e._v("\n  Страница черн списки\n")])}),[],!1,null,null,null);n.default=component.exports}}]);
